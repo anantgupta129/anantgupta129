@@ -29,8 +29,8 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 📫 How to reach me: ... <br />
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantgupta129@gmail.com)
-
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantgupta129@gmail.com)&nbsp;
+[![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-gupta-03a0ba1a5/)&nbsp;
 
 <!--
 **anantgupta129/anantgupta129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
