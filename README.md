@@ -1,6 +1,9 @@
 ### Anant Gupta
 
+- 🌱 I’m currently learning: Advanced Computer Vision after that i will start C++
+- 👯 I’m looking to collaborate on: Computer Vision tasks, Deep learning or maybe embedded also
 
+<br>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anantgupta129&show_icons=true&include_all_commits=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta129&layout=compact&theme=gruvbox" />
@@ -39,8 +42,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 
