@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on: Computer Vision tasks, Deep learning or maybe embedded also
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anantgupta129&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-ji" /> </p>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anantgupta129&show_icons=true&include_all_commits=true&theme=ayu-mirage" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta129&layout=compact&theme=ayu-mirage" />
