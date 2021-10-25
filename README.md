@@ -5,12 +5,20 @@
 
 <br>
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anantgupta129&show_icons=true&include_all_commits=true&theme=ayu-mirage" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta129&layout=compact&theme=ayu-mirage" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anantgupta129&show_icons=true&include_all_commits=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta129&layout=compact&show_icons=true&theme=graywhite" />
 </div>
 
 <br>
 <br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
 
 #### Data Science and Artificial Intelligence : <br />
 ![np](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -36,6 +44,8 @@
 [![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-gupta-03a0ba1a5/)&nbsp;
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantgupta129@gmail.com)&nbsp;
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anantgupt)&nbsp;
+
+
 <!--
 **anantgupta129/anantgupta129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
